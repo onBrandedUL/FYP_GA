@@ -1,0 +1,78 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		459638A0218B483800F18376 /* Chromosome.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = Chromosome.java; sourceTree = "<group>"; };
+		459638A1218B484E00F18376 /* Population.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = Population.java; sourceTree = "<group>"; };
+		459638A2218B486B00F18376 /* GeneticAlgorithm.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = GeneticAlgorithm.java; sourceTree = "<group>"; };
+		459638A3218B489400F18376 /* GADriver.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = GADriver.java; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		45963899218B480900F18376 = {
+			isa = PBXGroup;
+			children = (
+				459638A3218B489400F18376 /* GADriver.java */,
+				459638A2218B486B00F18376 /* GeneticAlgorithm.java */,
+				459638A1218B484E00F18376 /* Population.java */,
+				459638A0218B483800F18376 /* Chromosome.java */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		4596389A218B480900F18376 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1010;
+			};
+			buildConfigurationList = 4596389D218B480900F18376 /* Build configuration list for PBXProject "FYP_Genetic_Algorithm" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 45963899218B480900F18376;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		4596389E218B480900F18376 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		4596389F218B480900F18376 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4596389D218B480900F18376 /* Build configuration list for PBXProject "FYP_Genetic_Algorithm" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4596389E218B480900F18376 /* Debug */,
+				4596389F218B480900F18376 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4596389A218B480900F18376 /* Project object */;
+}
